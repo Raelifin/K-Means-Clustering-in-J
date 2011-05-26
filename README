@@ -1,1 +1,2 @@
 This is a k-means clustering algorithm written in J (http://www.jsoftware.com/).
+It uses k-means++ to find initial cluster locations, and can scale to any number of dimensions.
